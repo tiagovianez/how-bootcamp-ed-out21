@@ -14,18 +14,18 @@ Facilitadores:
 
 Calendário
 
-Encontro Inaugural - 07/10
-Live com convidado - 14/10
-Pair Programming - 19/10
-Como usar documentação - 19/10
-Ingestão de Bancos de Dados - 26/10
-Apache Spark - 04/11
-Live com convidado - 09/11
-Mensageria / Streaming - 11/11
-Pair Programming - 16/11
-TerraForm + CloudFormation - 18/11
-Modelagem de Dados e DBT - 25/11
-Pair Programming - 30/11
-De Engenheiro a streamer de dados - 02/12
-Encerramento: Carreira e Portfólio - 09/12
+- Encontro Inaugural - 07/10
+- Live com convidado - 14/10
+- Pair Programming - 19/10
+- Como usar documentação - 19/10
+- Ingestão de Bancos de Dados - 26/10
+- Apache Spark - 04/11
+- Live com convidado - 09/11
+- Mensageria / Streaming - 11/11
+- Pair Programming - 16/11
+- TerraForm + CloudFormation - 18/11
+- Modelagem de Dados e DBT - 25/11
+- Pair Programming - 30/11
+- De Engenheiro a streamer de dados - 02/12
+- Encerramento: Carreira e Portfólio - 09/12
 

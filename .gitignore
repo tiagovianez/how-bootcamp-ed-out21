@@ -221,3 +221,9 @@ pip-selfcheck.json
 ### Personal
 .env
 .todo
+__pycache__
+__pypackages__
+.pytest_cache
+.src
+/src
+/home/tiago/Documents/projects/how-bootcamp-ed-out21/MOD06/src

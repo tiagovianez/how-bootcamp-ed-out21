@@ -1,10 +1,10 @@
-#%%
 import pandas
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 import sys
-#%%
+
+
 cep = sys.argv[1]
 
 if cep:
@@ -54,5 +54,3 @@ if cep:
     localidade
     ))
 
-
-# %%
